@@ -1,0 +1,42 @@
+{
+  "name": "ai-powered-interview-accelerator",
+  "version": "1.0.0",
+  "description": "Production-grade AI-powered Interview Accelerator for Student Credibility & Edxso Challenge",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansh-rohilla/AI-powered-Interview-Accelerator.git"
+  },
+  "keywords": [
+    "ai-interview",
+    "interview-preparation",
+    "voice-ai",
+    "career-intelligence",
+    "student-credibility",
+    "edxso"
+  ],
+  "author": "Ansh Rohilla",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^1.50.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.9",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.2"
+  }
+}
