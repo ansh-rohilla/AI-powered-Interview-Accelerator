@@ -107,15 +107,8 @@ export default function Navbar({
             <span className="font-semibold text-blue-400">{currentStepObj.label}</span>
           </div>
 
-          {/* Right Action Tools & Live Status */}
+          {/* Right Action Tools */}
           <div className="flex items-center space-x-2 flex-shrink-0">
-            {/* Live System Indicator */}
-            <div className="hidden xl:inline-flex items-center space-x-1.5 px-2.5 py-1 rounded-full text-[11px] font-semibold bg-emerald-950/30 border border-emerald-500/25 text-emerald-400">
-              <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping" />
-              <span>AI Engine Ready</span>
-            </div>
-
-            <div className="h-4 w-px bg-slate-800 hidden xl:block" />
 
             {/* History Button */}
             <button
