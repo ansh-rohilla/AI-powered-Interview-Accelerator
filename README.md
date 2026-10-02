@@ -137,6 +137,7 @@ npm run preview
 
 ## 6. Live Deployment & Submission Links
 
+- **Live Deployed Application:** [https://ansh-rohilla.github.io/AI-powered-Interview-Accelerator/](https://ansh-rohilla.github.io/AI-powered-Interview-Accelerator/)
 - **GitHub Repository:** [https://github.com/ansh-rohilla/AI-powered-Interview-Accelerator](https://github.com/ansh-rohilla/AI-powered-Interview-Accelerator)
 - **Primary Preset Tested:** AI Product Engineer Intern (Student Credibility / edxso benchmark)
 - **Candidate Evaluated:** Aravind Chenna (B.Tech CS, RAG Assistant capstone, FastAPI microservices)
